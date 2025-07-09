@@ -7,7 +7,8 @@ sources:
     tables:
       - name: cidades
       - name: clientes
-      - name: concessonarias
+      - name: concessionarias
       - name: estados
       - name: veiculos
       - name: vendas
+      - name: vendedores
